@@ -1,0 +1,21 @@
+{
+  "name": "homeworkedx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "mongodb": "^2.0.48"
+  }
+}
